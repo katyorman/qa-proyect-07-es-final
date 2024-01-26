@@ -1,0 +1,7 @@
+urban_routes_url = 'https://0d6ddbf9-d55b-46d8-a1ec-3d27d83de0d7.serverhub.tripleten-services.com?lng=es'
+address_from = 'East 2nd Street, 601'
+address_to = '1300 1st St'
+phone_number = '+1 123 123 12 12'
+card_number = '1234 5678 9100'
+card_code = '111'
+message_for_driver = 'Hola, soy Katrine'

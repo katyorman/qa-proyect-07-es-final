@@ -1,0 +1,15 @@
+{
+  "main.py::TestUrbanRoutes::test_pedir_taxi": true,
+  "main.py::TestUrbanRoutes::test_pedir_taxi_locator": true,
+  "main.py::TestUrbanRoutes::test_numero_telefono": true,
+  "main.py::TestUrbanRoutes::test_set_numero_telefono": true,
+  "main.py::TestUrbanRoutes::test_phone_number": true,
+  "main.py::TestUrbanRoutes::test_click_boton_siguiente_telefono": true,
+  "main.py::TestUrbanRoutes::test_set_code": true,
+  "main.py::TestUrbanRoutes::test_campo_code": true,
+  "main.py::TestUrbanRoutes::test_boton_agregar_tarjeta": true,
+  "main.py::TestUrbanRoutes::test_formulario": true,
+  "main.py::TestUrbanRoutes::test_click_formulario": true,
+  "main.py::TestUrbanRoutes::test_click_enfoque": true,
+  "main.py::TestUrbanRoutes::test_set_mensaje_controlador": true
+}
